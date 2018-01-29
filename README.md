@@ -9,6 +9,8 @@ To check on progress:
 ```
 > tensorboard --logdir=log
 ```
+There is a graphical viewing interface on a local server.
+
 To generate a tweet:
 ```
 > python rnn_play.py
