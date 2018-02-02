@@ -1,6 +1,7 @@
 # TensorflowTrumpTweet Generator 
 
-This code is based off of martin-gorner's tensorflow rnn shakespears
+This code is based off of martin-gorner's tensorflow rnn shakespeare.
+This code is licensed with an Apache 2.0 license. 
 
 ## Usage:
 
