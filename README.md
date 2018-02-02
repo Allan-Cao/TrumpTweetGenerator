@@ -1,22 +1,26 @@
-# Code based off Code for the Recurrent Neural Network in the presentation "Tensorflow and deep learning - without a PhD, Part 2"
+# TensorflowTrumpTweet Generator 
+
+This code is based off of martin-gorner's tensorflow rnn shakespears
 
 ## Usage:
-
-```
-> python rnn_train.py
-```
-To check on progress:
-```
-> tensorboard --logdir=log
-```
-There is a graphical viewing interface on a local server.
 
 To generate a tweet:
 ```
 > python rnn_play.py
 ``` 
-**The original Github noted to use python 3 but my computer glitched with the command python3 becuase I uninstalled python 2**
+The length of the tweet can be controlled by adjusting the range in for i in range()
 ```
 > python3 -m unittest tests.py
 ```
 Unit tests can be run with the command above.
+
+
+
+## Note to self:
+
+```
+> python rnn_train.py
+```
+```
+> tensorboard --logdir=log
+```
