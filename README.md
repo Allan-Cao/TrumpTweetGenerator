@@ -25,3 +25,5 @@ Unit tests can be run with the command above.
 ```
 > tensorboard --logdir=log
 ```
+
+Science Fair 2018 at Westmount Charter School
